@@ -31,3 +31,6 @@ Default output format [None]:
 aws sts get-caller-identity
 
 ```
+### provide
+
+[AWS](https://registry.terraform.io/providers/hashicorp/aws/4.38.0)
