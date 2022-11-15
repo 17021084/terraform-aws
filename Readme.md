@@ -34,3 +34,28 @@ aws sts get-caller-identity
 ### provide
 
 [AWS](https://registry.terraform.io/providers/hashicorp/aws/4.38.0)
+
+
+
+#### Terraform comman
+
+```bash
+# init resouce
+terraform init 
+
+# check change
+terraform plan
+
+# apply
+terraform  apply
+
+# terraform destroy resoucre
+terraform destroy
+
+
+#terrfomr format file
+terrafrom fmt
+
+# terrafrom check file
+terraform validate
+```
